@@ -10,5 +10,9 @@ link do Portfólio: https://nestorrian.github.io/Portfolio-NestorRian/
 ![Captura de tela 2023-08-30 222048](https://github.com/NestorRian/Portfolio-NestorRian/assets/115047967/c8cfefe4-40e9-4bb3-8bcc-f9fdaa77bb72)
 
 
-https://github.com/NestorRian/Portfolio-NestorRian/assets/115047967/4f64f0dc-f000-4f69-878b-f6cd31ae47a3
+
+
+
+https://github.com/NestorRian/Portfolio-NestorRian/assets/115047967/e2f9f16b-54a6-48c7-bf33-e30e98bdcdfd
+
 
